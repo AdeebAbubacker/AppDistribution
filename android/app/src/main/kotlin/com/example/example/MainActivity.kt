@@ -1,4 +1,4 @@
-package com.example.appdistribution
+package com.exampledir.app
 
 import io.flutter.embedding.android.FlutterActivity
 

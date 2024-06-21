@@ -1,4 +1,4 @@
-# appdistribution
+# example
 
 A new Flutter project.
 
